@@ -1,0 +1,14 @@
+{
+  "name": "@nokizorque/node-queue",
+  "version": "0.0.2",
+  "description": "A simple queue system for Node.js",
+  "main": "index.js",
+  "repository": "nokizorque/node-queue",
+  "author": "Lewis Watson",
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "queue",
+    "event"
+  ]
+}
